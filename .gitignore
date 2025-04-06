@@ -1,0 +1,66 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Virtual environment
+.venv/
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Flask & Python-related files
+instance/
+*.log
+*.pot
+*.pyc
+*.pyo
+*.pyd
+
+# VSCode settings
+**/.vscode/
+**/.idea/
+# Pytest cache
+.pytest_cache/
+
+# mypy
+.mypy_cache/
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# Data files
+*.csv
+*.tsv
+*.xlsx
+*.xls
+*.db
+*.sqlite3
+*.h5
+
+# Environment variables / secrets
+.env
+.env.*
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Build / distribution
+build/
+dist/
+*.egg-info/
+
+# Coverage reports
+htmlcov/
+.coverage
+coverage.xml
+.cache
+
+# Other
+logs/
