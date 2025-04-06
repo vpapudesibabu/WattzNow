@@ -34,15 +34,6 @@ instance/
 # Jupyter Notebooks
 .ipynb_checkpoints/
 
-# Data files
-*.csv
-*.tsv
-*.xlsx
-*.xls
-*.db
-*.sqlite3
-*.h5
-
 # Environment variables / secrets
 .env
 .env.*
